@@ -2,8 +2,8 @@
 
 **Project Overview:**
 This project implements a client-server architecture for an e-commerce platform called AUBoutique. It allows users to register, login, view products, add products, buy products, view buyers of products, and text with another user. This system is composed of two parts: 
-1- Server: The server handles client requests, manages the database, and helps the communication between clients. 
-2- Client: The client is the one interacting with the system and requesting certain actions to be performed. 
+1. Server: The server handles client requests, manages the database, and helps the communication between clients. 
+2. Client: The client is the one interacting with the system and requesting certain actions to be performed. 
 
 It is important to note that SQLite database is used in this project to store the user's data (username, password, products, messages,...). The server automatically creates "auboutique.db" database. 
 Another note worth mentioning is the use of socket to handle the communication between the client and server codes. 
