@@ -11,8 +11,6 @@ It is important to note that SQLite database is used in this project to store th
 Another note worth mentioning is the use of socket to handle the communication between the client and server codes. 
 
 
-
-
 **Instructions for running the project:**
 
 Step 1: Set up the server code 
@@ -28,7 +26,6 @@ Step 2: Set up the client code
   - The client will connect and display the options menu (example: register, login, or exit)
 
 *Note:* It is important to run the server code first since the client will attempt to connect to the server at localhost:8005. 
-
 
 
 **Dependencies/external libraries needed for the project:** 
