@@ -12,6 +12,7 @@ Another note worth mentioning is the use of socket to handle the communication b
 
 
 
+
 **Instructions for running the project:**
 
 Step 1: Set up the server code 
