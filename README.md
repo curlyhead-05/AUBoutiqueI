@@ -7,7 +7,9 @@ This project implements a client-server architecture for an e-commerce platform 
 2. Client: The client is the one interacting with the system and requesting certain actions to be performed. 
 
 It is important to note that SQLite database is used in this project to store the user's data (username, password, products, messages,...). The server automatically creates "auboutique.db" database. 
+
 Another note worth mentioning is the use of socket to handle the communication between the client and server codes. 
+
 
 
 **Instructions for running the project:**
@@ -25,6 +27,7 @@ Step 2: Set up the client code
   - The client will connect and display the options menu (example: register, login, or exit)
 
 *Note:* It is important to run the server code first since the client will attempt to connect to the server at localhost:8005. 
+
 
 
 **Dependencies/external libraries needed for the project:** 
